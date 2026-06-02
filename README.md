@@ -19,7 +19,7 @@ http://80.225.199.123:8080
 
 ## Screenshots
 
-Add screenshots here.
+![Dashboard](screenshots/dashboard.png)
 
 ## Installation
 
